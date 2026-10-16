@@ -46,9 +46,9 @@ Because distance[0] = 1, s is not a well-spaced string.
 
 ### 📊 Submission Statistics
 - **Language:** `cpp`
-- **Runtime:** `0 ms`
-- **Memory:** `N/A`
-- **Submission Date:** Fri, 16 Oct 2026 07:25:46 GMT
+- **Runtime:** `0 ms` (Beats **100%**)
+- **Memory:** `16.55 MB` (Beats **100%**)
+- **Submission Date:** Fri, 16 Oct 2026 08:42:28 GMT
 
 ---
 

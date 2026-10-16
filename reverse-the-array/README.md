@@ -49,7 +49,7 @@ Time Limit: 1 sec
 - **Runtime:** `16 ms` (Beats **99.94%**)
 - **Memory:** `N/A`
 - **Test Cases:** `11 / 11 Passed`
-- **Submission Date:** Fri, 16 Oct 2026 15:57:24 GMT
+- **Submission Date:** Fri, 16 Oct 2026 15:57:47 GMT
 
 ---
 
